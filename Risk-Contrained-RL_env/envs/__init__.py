@@ -1,1 +1,1 @@
-from Risk-Constrained-RL_env.envs.rl_env import CustomEnv
+from rl_env.envs.rl_env import CustomEnv
